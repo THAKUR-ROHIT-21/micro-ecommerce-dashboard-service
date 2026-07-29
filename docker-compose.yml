@@ -10,6 +10,6 @@
         PROFILE_HOST: 10.0.1.54 
         PRODUCT_HOST: 10.0.12.9
         CART_HOST: 10.0.1.27 
-        ORDER_HOST: localhost
+        ORDER_HOST: 10.0.6.178
         PAYMENT_HOST: localhost
       restart: unless-stopped
